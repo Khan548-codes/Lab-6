@@ -41,4 +41,4 @@ grid;
 title(' Frequency domain representation of … Sin(2\pi50t)');
 
 xlabel('Frequency, Hz.');
-![images]()
+![images](https://github.com/Khan548-codes/Lab-6/blob/main/Images/ss6.png)
